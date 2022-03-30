@@ -1,4 +1,4 @@
-![This is an image](docs/footer.png)
+![This is an image](docs/footer.png =100x100)
 
 Gonalyzer is a command line tool that detects network interfaces and scans the arp table. Motivation behind this project is to check network status of remote test or build setups.
 
